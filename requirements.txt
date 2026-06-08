@@ -1,0 +1,5 @@
+# Download the Stack Overflow Developer Survey dataset
+# and place CSV files into the data folder.
+
+# The dataset is publicly available at:
+# https://survey.stackoverflow.co/2025/
